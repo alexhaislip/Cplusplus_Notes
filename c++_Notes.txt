@@ -1,0 +1,44 @@
+Compiling the code:
+ 
+g++ command is a GNU c++ compiler invocation command, which is used for preprocessing, compilation, assembly and linking of source code to generate an executable file. The different “options” of g++ command allow us to stop this process at the intermediate stage.
+
+
+g++ hello_World.cpp
+
+To output the binary code in the terminal ./helloWorld
+
+Default compiled binary file name is a.out
+
+
+Commenting: 
+
+//this is a comment
+
+Multi line comments...
+
+/* This is all commented.
+std::cout << "hi!";
+None of this is going to run! */
+
+Re-naming compiled files:
+	
+	g++ hello_World.cpp -o hello.cpp
+
+Data Types:
+
+	int = 9
+	Char = e
+	string = “this is string”
+	Bool = True or False
+	Floats =  1.9
+
+
+Int score = 9
+
+Std::cin >> score >> “What do you want the new score to be? “
+std ::cout << score
+
+
+
+
+
