@@ -39,6 +39,11 @@ Std::cin >> score >> “What do you want the new score to be? “
 std ::cout << score
 
 
+Debugging:
+
+	creating a debugging file using -ggdb flag, similar to creating the a.out but this will do both. (VS Code)
+
+
 
 
 
